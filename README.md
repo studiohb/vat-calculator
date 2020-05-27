@@ -18,18 +18,8 @@ This package must be used with a modules bundler like [Webpack](https://webpack.
 
 ## How to use
 
-### With modules bundler
-
-Import with destructuration:
-
 ```js
-import { vatAmount } from '@studiohb/vat-calculator'
-```
-
-or import all:
-
-```js
-import '@studiohb/vat-calculator'
+import { vatAmount, amountWithTaxes, amountWithoutTaxes } from '@studiohb/vat-calculator'
 ```
 
 ## Licence
