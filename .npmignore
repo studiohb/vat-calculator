@@ -5,3 +5,4 @@ jest.config.js
 babel.config.js
 src/style.css
 src/**/*.spec.js
+.github/
