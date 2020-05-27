@@ -6,7 +6,6 @@
   "repository": "git@github.com:studiohb/vat-calculator.git",
   "author": "Studio HB",
   "license": "MIT",
-  "private": false,
   "scripts": {
     "format": "prettier-standard  '**/*.js' --format",
     "lint": "prettier-standard  '**/*.js' --lint",
