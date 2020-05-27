@@ -1,16 +1,36 @@
 # VAT Calculator
 
-![](https://img.shields.io/github/license/studiohb/change-me)
 ![Test](https://github.com/studiohb/vat-calculator/workflows/Test/badge.svg)
 ![Lint](https://github.com/studiohb/vat-calculator/workflows/Lint/badge.svg)
+![](https://img.shields.io/github/license/studiohb/vat-calculator)
 
 ## Introduction
 
 This package provides a straight forward JavaScript functions to handle vat calculations.
 
+## How to install
+
+```bash
+yarn add @studiohb/vat-calculator # or npm install @studiohb/vat-calculator
+```
+
+This package must be used with a modules bundler like [Webpack](https://webpack.js.org/) or [Rollup](https://rollupjs.org/guide/en/).
+
 ## How to use
 
-## How to configure
+### With modules bundler
+
+Import with destructuration:
+
+```js
+import { vatAmount } from '@studiohb/vat-calculator'
+```
+
+or import all:
+
+```js
+import '@studiohb/vat-calculator'
+```
 
 ## Licence
 
