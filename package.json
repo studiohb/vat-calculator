@@ -1,5 +1,5 @@
 {
-  "name": "vat-calculator",
+  "name": "@studiohb/vat-calculator",
   "version": "1.0.0",
   "description": "Very simple vat calculator",
   "main": "src/index.js",
