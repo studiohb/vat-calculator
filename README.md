@@ -1,10 +1,12 @@
-# My awesome package
+# VAT Calculator
 
 ![](https://img.shields.io/github/license/studiohb/change-me)
+![Test](https://github.com/studiohb/vat-calculator/workflows/Test/badge.svg)
+![Lint](https://github.com/studiohb/vat-calculator/workflows/Lint/badge.svg)
 
 ## Introduction
 
-## Requirements
+This package provides a straight forward JavaScript functions to handle vat calculations.
 
 ## How to use
 
